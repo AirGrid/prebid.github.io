@@ -25,7 +25,7 @@ injected into bid request objects destined for different bidders in order to opt
 
 ## Usage
 
-Compile the Halo RTD module into your Prebid build:
+Compile the AirGrid RTD module into your Prebid build:
 
 `gulp build --modules=rtdModule,airgridRtdProvider,appnexusBidAdapter`
 
@@ -96,7 +96,7 @@ If you require further assistance or are interested in discussing the module fun
 - [hello@airgrid.io](mailto:hello@airgrid.io) for general questions.
 - [support@airgrid.io](mailto:support@airgrid.io) for technical questions.
 
-You are also able to find more examples and other integration routes on the [AirGrid docs site](docs.airgrid.io).
+You are also able to find more examples and other integration routes on the [AirGrid docs site](https://docs.airgrid.io).
 
 Happy Coding! 😊
 The AirGrid Team.
